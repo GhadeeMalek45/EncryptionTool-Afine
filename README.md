@@ -5,7 +5,7 @@ A graphical Java application that implements the Affine Cipher encryption and de
 ## Features
 - Encrypt plaintext using Affine Cipher formula:
 - E(x) = (a * x + b) mod m
-- - Decrypt ciphertext using modular inverse of a
+- Decrypt ciphertext using modular inverse of a
 - User-friendly Java GUI interface
 - Input validation and real-time results
 - Includes screenshots and cipher-related illustrations
